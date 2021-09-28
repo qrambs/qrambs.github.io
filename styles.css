@@ -7,7 +7,7 @@ header {
     z-index: 100;
     left: 0;
     top: 0;
-    background-color: black;
+    background-color: rgba(238, 218, 183, 0.95);
     width: 100%;
     height: auto;
     font-weight: 800;
